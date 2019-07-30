@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to implement a table layout for DockPanels (Matrix of DockPanels)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4317)**
+**[[Run Online]](https://codecentral.devexpress.com/e4317/)**
 <!-- run online end -->
 
 
